@@ -3,3 +3,4 @@ public class Test{
         System.out.println("Here comes the \"Hello World\" monster");
     }
 }
+// here it is a useful comment
